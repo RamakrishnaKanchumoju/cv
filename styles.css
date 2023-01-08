@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+			
+			background-color: #EAF6F6;
+		}
+
+/*******Tag seclectors******/
+h1{
+	color: #66BFBF;
+	font-size: 30px;
+	
+}
+
+h3{
+	color: #66BFBF;
+}
+		
+		hr{
+			
+		    border-style: none;
+			border-top-style: dotted;
+			border-color: grey;
+			border-width: 5px;
+			width: 10%;	
+		}
